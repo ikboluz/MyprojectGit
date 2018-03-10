@@ -12,7 +12,8 @@ public class Hello {
 		System.out.println(" ");
 
 		// ikboluz push push
-		// hello 
+		// hello
+		// ikbol try to get this line
 
 	}
 	
